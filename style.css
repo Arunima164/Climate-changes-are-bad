@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Pirata+One&display=swap');
+
+body{
+    font-family: 'Pirata One', cursive;
+}
+
+div{
+    display: inline-block;
+    border: 2px solid black;
+    border-radius: 10px;
+    height: 200px;
+    width: 200px;
+    margin-bottom: 30px;
+    text-align: center;
+    margin: 2%;
+    padding: 2%;
+}
+
+img{
+    height: 160px;
+    width: 160px;
+}
+
+#head{
+color: darkgreen;
+}
+
+.green{
+background-color: lightgreen;
+}
